@@ -1,2 +1,1 @@
-# AQI
-Urban Air Quality Monitoring and Health Impact Forecaster is a web-based application that monitors AQI levels and predicts health risks using user inputs like age, asthma, and outdoor exposure. It provides real-time AQI data, risk analysis, and health recommendations through an interactive dashboard.
+An environmental health intelligence platform that combines live AQI data with machine learning to provide early health risk warnings, personalized recommendations, and an interactive dashboard for urban air quality awareness.
