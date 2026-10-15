@@ -1,1 +1,1 @@
-An environmental health intelligence platform that combines live AQI data with machine learning to provide early health risk warnings, personalized recommendations, and an interactive dashboard for urban air quality awareness.
+An environmental health intelligence platform that combines live AQI data with machine learning to provide early health risk warnings, personalized recommendations and an interactive dashboard for urban air quality awareness.
